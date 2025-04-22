@@ -1,5 +1,8 @@
-# Reseach-paper-Q-And-A
+# Research-paper-Q-And-A
+
 A Streamlit-based web application that allows users to upload research papers in PDF format and ask questions related to the content of the paper. The application processes the uploaded PDF, indexes it using FAISS, and answers user queries using the Groq API and a language model.
+
+![Architecture Diagram](doc-proc.png)
 
 ## Features
 
